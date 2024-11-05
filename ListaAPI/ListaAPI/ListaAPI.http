@@ -1,0 +1,6 @@
+@ListaAPI_HostAddress = http://localhost:5139
+
+GET {{ListaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
